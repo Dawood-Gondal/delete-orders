@@ -1,0 +1,27 @@
+{
+    "name": "m2commerce/delete-orders",
+    "description": "Delete order extension",
+    "require": {
+        "php": "~7.4.0|~8.1.0"
+    },
+    "type": "magento2-module",
+    "keywords": ["magento2"],
+    "version": "1.0.0",
+    "license":[
+        "proprietary"
+    ],
+    "authors":[
+        {
+            "name" : "Dawood Gondal",
+            "email" : "dawoodgondaldev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "M2Commerce\\DeleteOrders\\": ""
+        }
+    }
+}
