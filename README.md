@@ -7,6 +7,11 @@ The module helps you to delete you older or unwanted orders. There should be a w
 - Ability to delete all
 - Delete related data safely
 
+## Configuration
+
+There are several configuration options for this extension, which can be found at **STORES > Configuration > Commerce Enterprise > Delete Orders**.
+
+
 ## Installation
 ### Magento® Marketplace
 

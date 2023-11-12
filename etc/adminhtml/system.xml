@@ -14,7 +14,7 @@
         </tab>
         <section id="delete_orders" translate="label" type="text" sortOrder="450" showInDefault="1" showInWebsite="1" showInStore="1" >
             <class>separator-top</class>
-            <label>Delete Orders Settings</label>
+            <label>Delete Orders</label>
             <tab>commerce_enterprise</tab>
             <resource>M2Commerce_DeleteOrders::deleteOrdersConfig</resource>
             <group id="general" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
